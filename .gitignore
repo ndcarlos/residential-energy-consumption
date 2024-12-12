@@ -6,3 +6,5 @@
 data/
 output/
 plots/
+.Renviron
+.renv/library
